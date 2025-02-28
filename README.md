@@ -1,4 +1,4 @@
-# FinalSpinEnv
+# Neutron Scattering ML
 Here we explore applications of ML to spinwaves, starting with reinforcement learning. The current RL model used is PPO, which combines ideas from A2C (Actor Critic model) and TRPO (using a trust region to improve the Actor in the A2C)
 
 # SpinW MATLAB Compiling into Python: Workflow and Files
